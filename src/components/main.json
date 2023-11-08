@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "../Assets/2c4ae82e-2c1b-41d5-a651-82189d1c8b2c.jpg",
+    "head": "Hulu Original",
+    "title": "Deep Water",
+    "rated": "R",
+    "gerne": "• Thriller, Latino ",
+    "type": " • Movie",
+    "movieYear": "(2022)"
+  },
+  {
+    "id": 2,
+    "img": "../Assets/4800d468-b587-44de-bad8-2646588bfa6b.jpg",
+    "head": " ",
+    "title": "No Exit",
+    "rated": "R",
+    "gerne": "• Thriller, Horror  ",
+    "type": " • Movie",
+    "movieYear": "(2022)"
+  },
+  {
+    "id": 3,
+    "img": "../Assets/c5fec97e-4c47-4b46-b19f-c246d461f6d0.jpg",
+    "head": " ",
+    "title": "Vacation Friends",
+    "rated": "R",
+    "gerne": "• Comedy, Black Stories  ",
+    "type": " • Movie",
+    "movieYear": "(2021)"
+  },
+  {
+    "id": 4,
+    "img": "../Assets/19b9d405-40b2-483e-8e1f-e25fe10c7299.jpg",
+    "head": "",
+    "title": "Derek DelGaudio’s In & Of Itself",
+    "rated": "TVMA ",
+    "gerne": "• Drama, Biography ",
+    "type": " • Movie",
+    "movieYear": "(2021)"
+  },
+  {
+    "id": 5,
+    "img": "../Assets/19b9d405-40b2-483e-8e1f-e25fe10c7299.jpg",
+    "head": "",
+    "title": "Derek DelGaudio’s In & Of Itself",
+    "rated": "TVMA ",
+    "gerne": "• Drama, Biography ",
+    "type": " • Movie",
+    "movieYear": "(2021)"
+  }
+]

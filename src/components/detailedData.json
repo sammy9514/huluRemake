@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "../Assets/it.jpg",
+    "head": "Hulu Original",
+    "title": "It: Chapter 2",
+    "rated": "R",
+    "gerne": "• Horror, Thriller ",
+    "type": " • Movie",
+    "movieYear": "(2019)",
+    "desc": "The Losers Club reunites 27 years later to face the diabolical Pennywise in this frightening sequel.",
+    "staring": "Jessica ChastainJames McAvoyBill Hader",
+    "director": "Andy Muschietti",
+    "bckImg": "../Assets/itbck.jpg"
+  },
+  {
+    "id": 2,
+    "img": "../Assets/doctorSleep.jpg",
+    "head": " ",
+    "title": "Doctor Sleep",
+    "rated": "R",
+    "gerne": "• Horror, Thriller ",
+    "type": " • Movie",
+    "movieYear": "(2019)",
+    "desc": "In this sequel to Stephen King's 'The Shining', the troubled Dan Torrance (Ewan McGregor) meets a teen who shares his extrasensory gift",
+    "staring": " Ewan McGregorRebecca FergusonKyliegh Curran",
+    "director": "Mike Flanagan",
+    "bckImg": "../Assets/a632c29c-4758-4b65-a501-b3e6bdadb701-1.jpg"
+  },
+  {
+    "id": 3,
+    "img": "../Assets/appendage.jpg",
+    "head": " ",
+    "title": "Appendage",
+    "rated": "TVMA",
+    "gerne": "• Horror, Comedy ",
+    "type": " • Movie",
+    "movieYear": "(2023)",
+    "desc": "After hitting a breaking point, Hannah’s inner thoughts physicalize into a monstrous creature that threatens to upend her life.",
+    "staring": " Hadley RobinsonEmily HampshireDeborah Rennard",
+    "director": "Anna Zlokovic",
+    "bckImg": "../Assets/appendagebck.jpg"
+  },
+  {
+    "id": 4,
+    "img": "../Assets/accountant.jpg",
+    "head": "",
+    "title": "The Accountant",
+    "rated": "R",
+    "gerne": "• Action, Thriller ",
+    "type": " • Movie",
+    "movieYear": "(2016)",
+    "desc": "Accounting savant Ben Affleck must trade in his pocket protector for an AK-47 in this action-packed thriller.",
+    "staring": "Ben AffleckAnna KendrickJ.K. SimmonsJon BernthalJeffrey Tambor",
+    "director": "Gavin O'Connor",
+    "bckImg": "../Assets/accountantbck.jpg"
+  }
+]
